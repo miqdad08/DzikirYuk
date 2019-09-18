@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DzikirYuk</string>
+    <string name="contoh">Example</string>
+    <string name="pagi">Dzikir Morning</string>
+    <string name="petang">afternoon dzikir</string>
+    <string name="sholat">Dzikir after pray</string>
+    <string name="sehari">Daily prayers</string>
+    <string name="tentang">About</string>
+    <string name="dzikir3">tahmid</string>
+    <string name="dzikir">Takbir</string>
+    <string name="dzikir1">Tasbih</string>
+    <string name="nya">Title</string>
+    <string name="ttl">Jakarta 2june2006</string>
+    <string name="tingal">Cileungsi Park Block Bc No 2</string>
+    <string name="changeLanguage">change language</string>
+</resources>

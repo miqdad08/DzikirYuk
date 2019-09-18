@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TahmidActivity">
+
+    <TextView
+        android:id="@+id/tvmain3"
+        android:layout_marginTop="250dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contoh"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btndzikir3"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:layout_margin="15dp"
+        android:text="@string/dzikir3"
+        android:layout_below="@id/tvmain3"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
+
+
+</LinearLayout>
